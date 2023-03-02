@@ -59,3 +59,4 @@ const myArray1 = [[1],[2],["coconut"]];
 const myArray2 = [50, 60, 70];
 let myData = myArray2[0];
 //
+
