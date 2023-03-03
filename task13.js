@@ -59,4 +59,21 @@ const myArray1 = [[1],[2],["coconut"]];
 const myArray2 = [50, 60, 70];
 let myData = myArray2[0];
 //
+const myArray3 = [18, 64, 99];
+myArray3[0]=45;
+//
+
+const myArray4 = [
+    [1, 2, 3],
+    [4, 5, 6],
+    [7, 8, 9],
+    [[10, 11, 12], 13, 14],
+  ];
+  
+  const myData1 = myArray4[2][1];
+  //
+  const myArray5 = [["John", 23], ["cat", 2]];
+  myArray5.push(["dog", 3]);
+  //
+
 
