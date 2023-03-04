@@ -52,3 +52,4 @@ function fun2() {
   console.log(output);
 }
 //
+
